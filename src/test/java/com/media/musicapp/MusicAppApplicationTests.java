@@ -8,6 +8,7 @@ class MusicAppApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("Hi");
     }
 
 }
