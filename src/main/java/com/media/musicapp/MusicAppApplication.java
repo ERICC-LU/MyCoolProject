@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MusicAppApplication {
     public static void main(String[] args) {
         System.out.println("This is a fix.");
+        System.out.println("Another fix");
         SpringApplication.run(MusicAppApplication.class, args);
     }
 
